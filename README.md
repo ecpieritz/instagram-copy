@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://scontent.fbnu2-1.fna.fbcdn.net/v/t1.0-9/118556043_1714331668721177_1264855136315739842_n.jpg?_nc_cat=100&_nc_sid=0debeb&_nc_eui2=AeHq-d053mCS7adGyFDIDdx6h0DprVKTn8CHQOmtUpOfwKd7xJGYg1fuS9nEzdKS3rtx4UykWpy7YJafFRvPOQo6&_nc_ohc=87x5hTj1qKEAX_CimPE&_nc_oc=AQls-pJvS-5JDTIwY4saPWcXvVWcpxvvtGd_X57mTO-OkkXbMvB8jrXV5EA9jJZ9k8FyIWYlChcEzgOXFeyX7jrx&_nc_ht=scontent.fbnu2-1.fna&oh=4f1dd5ee3ae0ec80e5db7e3685cbbcf3&oe=5F708576" width = "500">
+  <img src = "https://github.com/ecpieritz/instagram-copy/blob/master/img/instagram-copy-print.jpg?raw=true" width = "800">
 </p>
 
 
