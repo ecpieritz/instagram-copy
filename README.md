@@ -21,7 +21,7 @@ Copy of the Instagram entry page using CSS and HTML basics
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/instagram-copy.git
+git clone https://github.com/ecpieritz/instagram-copy.git
 
 #### Enter directory
 `cd instagram-copy`
