@@ -31,4 +31,4 @@ git clone https://github.com/ecpieritz/instagram-copy.git
 - click on `open with liveserver`
 
 ---
-Developed with 💙 by Emilyn C. Pieritz
+<p align = "right">Developed with 💙 by Emilyn C. Pieritz</p>
